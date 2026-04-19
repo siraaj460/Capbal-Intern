@@ -49,7 +49,7 @@ export default function Login() {
             {isSignUp ? 'Create account' : 'Welcome back'}
           </CardTitle>
           <p className="text-muted-foreground text-sm">
-            {isSignUp ? 'Start your learning journey' : 'Sign in to Luminary AI'}
+            {isSignUp ? 'Start your learning journey' : 'Sign in to Mine AI'}
           </p>
         </CardHeader>
         <CardContent>
