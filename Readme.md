@@ -37,7 +37,7 @@ npm run build
 
 ## Tech Stack
 - React 18 + Vite
-- Tailwind CSS + shadcn/ui
+- Tailwind CSS
 - React Router v6
 - TanStack Query
-- Base44 SDK (backend/auth)
+- Super Base (backend/auth)
